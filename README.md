@@ -144,6 +144,8 @@ HTML渲染的跨行表格：
 | \varGamma   | $\varGamma$   |
 | \varpi      | $\varpi$      |
 | \vartheta   | $\vartheta$   |
+| \mathbb{Aa,Rr,Kk} | $\mathbb{Aa,Rr,Kk}$ |
+| \Bbb{Aa,Rr,Kk} | $\Bbb{Aa,Rr,Kk}$ |
 
 #### 2.数学符号表：
 | latex                          | 符号                             |
@@ -163,7 +165,7 @@ HTML渲染的跨行表格：
 | \leq                           | $\leq$                           |
 | \mp                            | $\mp$                            |
 | \in                            | $\in$                            |
-| \empty                         | $\empty$                         |
+| \emptyset                      | $\emptyset$                      |
 | \land                          | $\land$                          |
 | \lor                           | $\lor$                           |
 | \lnot                          | $\lnot$                          |
@@ -175,10 +177,15 @@ HTML渲染的跨行表格：
 | \approx                        | $\approx$                        |
 | \Rightarrow                    | $\Rightarrow$                    |
 | \rightarrow                    | $\rightarrow$                    |
+| \preceq                        | $\preceq$                        |
+| \succeq                        | $\succeq$                        |
+| \prec                          | $\prec$                          |
+| \succ                          | $\succ$                          |
 | \to                            | $\to$                            |
 | \vec a                         | $\vec a$                         |
 | \hat a                         | $\hat a$                         |
 | \bar a                         | $\bar a$                         |
+| \tilde a                       | $\tilde a$                       |
 | \sqrt[2]{3}                    | $\sqrt[2]{3}$                    |
 | \dfrac{\partial f}{\partial x} | $\dfrac{\partial f}{\partial x}$ |
 | \sin 30^\circ                  | $\sin 30^\circ$                  |
